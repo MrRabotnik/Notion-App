@@ -1,5 +1,3 @@
-
-
 import './setupEnv';
 import './index.css';
 
