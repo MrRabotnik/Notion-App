@@ -25,6 +25,7 @@
     "@lexical/selection": "0.12.2",
     "@lexical/table": "0.12.2",
     "@lexical/utils": "0.12.2",
+    "@rollup/plugin-babel": "^6.0.4",
     "katex": "^0.15.2",
     "lexical": "^0.12.2",
     "lodash-es": "^4.17.21",
